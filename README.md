@@ -7,21 +7,23 @@ This a sample testing project using [Cypress](https://www.cypress.io/).
 1. [Node 8](https://nodejs.org/en/). Later Versions might also work.
 
 ## Getting Started
-1. Open Terminal or Command Prompt.
-1. Create or change to your development folder if your already have one. 
+1. Go to [https://github.com/cadbox1/cypress-sample](https://github.com/cadbox1/cypress-sample).
+2. Fork the repository to your own account.
+3. Open Terminal or Command Prompt.
+4. Create or change to your development folder if your already have one. 
 	```
 	mkdir dev
 	cd dev
 	```
-1. Clone this repo.
+1. Clone your fork.
    ```
-   git clone https://github.com/cadbox1/cypress-sample.git
+   git clone https://github.com/{your-username}/cypress-sample.git
    ```
-1. Change to the project directory.
+2. Change to the project directory.
    ```
    cd cypress-sample
    ```
-1. Install dependencies.
+3. Install dependencies.
 	```
 	npm install
 	```
